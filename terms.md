@@ -6,14 +6,14 @@
   \____|____/|_____|_|_.__/
 ```
 
-#### Terms and Conditions - V1.0
+## Terms and Conditions - V1.0
 
 Welcome to CSLib! We are a student-run society providing extra-curricular computing services, and allowing students to get first-hand experience with enterprise hardware and software.
 
-In order to allow everyone to have fun and learn together with minimal disruption, these terms serve as a guide of what is considered 'fair use' of our infrastructure, so that everyone can get something out of it.
+In order to allow everyone to have fun and learn together with minimal disruption, these terms serve explain what is considered 'fair use' of our infrastructure and services, so that everyone can get something out of it.
 
 
-a) Obvious things
+### Obvious things
 
 Our equipment is kindly hosted by ECS and iSolutions at the University of Southampton, and as such the use of our equipment is governed by the same regulations and policies as conventional internet access at the university. More information is available at https://www.southampton.ac.uk/isolutions/regs.page
 
@@ -27,12 +27,12 @@ DO NOT attack VMs which aren't yours or machines on the internet.
 DO NOT compromise the security of our network, e.g. by facilitating access from outside the university.
 DO NOT degrade the experience of others, e.g. by consuming excessive resources.
 
-In short,
+#### In Short
 DO NOT facilitate actions which degrade the relationship between CSLib and the university.
 
 
 
-b) Educational Use
+### Educational Use
 
 We provide these services as a method of learning. However, we can not guarantee their availability, uptime, or persistance.
 
@@ -40,8 +40,7 @@ This means that they should NOT be used for projects which matter, such as your 
 
 We cannot guarantee the availability of any data you store on CSLib infrastructure at any time. It may be irrecoverably deletedcould disappear for some reason the day before your deadline, either temporarily or permanently.
 
-In short:
-
+#### In Short
 DO NOT use our resources to store your coursework/reports.
 DO NOT host a server for your viva demo.
 DO NOT take the risk of all your data disappearing.
@@ -49,14 +48,13 @@ DO use the ECS Supported VM Service at https://selfservice.ecs.soton.ac.uk/ for 
 
 
 
-c) Personal/Commercial Use
+### Personal/Commercial Use
 
 These services are provided strictly for educational use. This means that you are not allowed to personally benefit from CSLib in any other way other than the knowledge experience you gain.
 
 Our services are not for commercial use. You are not allowed to host things for non-members of the university, or companies.
 
-This means, for example:
-
+#### In Short
 DO NOT mine any form of cryptocurrency using our resources.
 DO NOT run your startup's mailserver on our infrastructure.
 DO NOT host any other service from which external entities will gain, e.g. a web indexer for a company.
