@@ -6,11 +6,13 @@
   \____|____/|_____|_|_.__/
 ```
 
-## Terms and Conditions - V1.0
+## Terms and Conditions - V0.2
+
+Last edited on: **25th August 2017**
 
 Welcome to CSLib! We are a student-run society providing extra-curricular computing services, and allowing students to get first-hand experience with enterprise hardware and software.
 
-In order to allow everyone to have fun and learn together with minimal disruption, these terms serve explain what is considered 'fair use' of our infrastructure and services, so that everyone can get something out of it.
+In order to allow everyone to have fun and learn together with minimal disruption, these terms serve to explain what is considered 'fair use' of our infrastructure and services, so that everyone can get something out of it.
 
 
 ### Obvious Things
@@ -18,7 +20,7 @@ In order to allow everyone to have fun and learn together with minimal disruptio
 Our equipment is kindly hosted by ECS and iSolutions at the University of Southampton, and as such the use of our equipment is governed by the same regulations and policies as conventional internet access at the university.
 More information is available at https://www.southampton.ac.uk/isolutions/regs.page.
 
-This means don't use our network for things you wouldn't do on your own laptop connected to the university network or a University system.
+This means you can't use our network for things you wouldn't do on your own laptop connected to the university network or a university system.
 For example:
 
 * **DO NOT** access or distribute illegal material.
@@ -75,8 +77,9 @@ You many not host things for non-University members, or external companies.
 ### Ignorance of Terms
 
 Failure to adhere to these terms and conditions could result in your access to our services being removed, either temporarily or permanently.
-In serious cases of abuse which extend further than our network, your information will be shared with the relevant University authorities who will deal with the situation accordingly.
+In serious cases of abuse which extend further than our network, your information will be shared with the relevant university authorities who will deal with the situation accordingly.
 
-The CSLib core team reserve the right to change these terms at any time, and will inform our users through an email to the CSLib mailing list any changes are made.
+The CSLib core team reserve the right to change these terms at any time, and will inform our users via an email to the CSLib mailing list of any changes made.
 
+Ignorance of these terms is not an acceptable defense of infringment.
 Exceptions to these terms may be granted with explicit written permission of the core CSLib committee and Julian Field of ECS.
