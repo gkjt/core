@@ -82,4 +82,4 @@ In serious cases of abuse which extend further than our network, your informatio
 The CSLib core team reserve the right to change these terms at any time, and will inform our users via an email to the CSLib mailing list of any changes made.
 
 Ignorance of these terms is not an acceptable defense of infringment.
-Exceptions to these terms may be granted with explicit written permission of the CSLib core team and Julian Field of ECS. Details as to current members of the core CSLib team can be found at https://cslib.org.uk/team
+Exceptions to these terms may be granted with explicit written permission of the CSLib core team and Julian Field of ECS. Details as to current members of the core CSLib team can be found at http://cslib.org.uk/team
